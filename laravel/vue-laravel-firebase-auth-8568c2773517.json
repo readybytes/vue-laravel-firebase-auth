@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "vue-laravel-firebase-auth",
-  "private_key_id": "8568c2773517183e91d744d177b3075e3103cec7",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCrBvYptjksy4jh\nIdlcwK7IzuXiuNiKQCq3EdXrTvuzAJNREsilLdG3J4JiNEX2ASSxG0a2tzA9L/uL\ngG0eaP4n6dNDvBz/nrUS586zLXLxHFyzBgKqxB5Az07uRwVcVcElhMmmhZ2oIY2w\nQNH7CnZVgAh/Kg3ZaghaXn7cswtieEMEuOFRkW4Q75xvKi34km5M9SRaUAiImMiE\nAjkpfmQEP4KEHe4CisCiFl6R8zyr7cjOsMlolXxvmKowKdqAQLeAS5Vfxs1cECPh\nFrIcqBzWXDplS2PQIg3zU1+HVCkykaVzZoXbHTQc7tzbkgz/VNB7EKuelP7jfeFe\nMkO59Z2HAgMBAAECggEAAbcYwh0id+0B1sHGv7Cn0Bgm1rv92QfFLm6S5LgdmXE/\nCPtRC236JGPDg9snBQCEd3ylJLVvnjcT2Cam+gmzICpqopgjHC6Dn9ml1i1CT6Xt\nowF2oC8kAXdSyYb6SC+EQE954be4qtqqwmCg2FpKCrokUyPDTHYIxa2lVYhd41RP\nv2HvlQ2eRbyu+r/IeBHGEjLcat/eTAk/dGwWZa6H5GAkaiIVrinb48RFjpWEay9s\nJwt8UZb4XwZexwnuSKaCpHEedY34/ZeexoMhUD3q7DpWAC3oND1DQu+CeacHgYeA\n23DPT+Sq2knlFidPyY5Ki9QNqlvvN6FUw0ZZePr0wQKBgQDpe4+4ma3JoXSMp7IX\nDa8t+t0pfwVMU8L8QQgNE6ys6nigCYxk58UZz2r2xnyoPYz1A+lI+pXshhDdegoD\nsOJf+6RerXEOmiEvGFYwL8IbcNN8rWs10MAYkTiruIBFvikAYaZth9CS/vt1NPbL\nizYrqbUDPt/8atQdHcrKVCVooQKBgQC7hXDqyxqdmQsuHvAFHDuPKiHd4KjSUJaj\ni6CA7bQfwTFtcjHYXEGegPgc9vQZVnkuix8ZfyCUj+RrfaHAdeQ9LmIAI5zcmza2\nkdgtumh/vjYoXkAoLRU9xwUYJ+ByQi/IxMK8asfcE8Q77lNaQDwaAh9hOMis2U2d\nlfHeQGKNJwKBgQCw2Q57XKvt1YVaJIsYOx09To7GJ5fzwF4og3l9rjFUqCTF03Wr\n2IHKkvkKAj3ZkQV7cIL67BMzHDkaCJ4dPZW57fkKXYUM8mHAMkbWKNZ1wnfuL8zM\n7lkSQq0SJKXELc0QpOZSgFTTgp8koAFvGvrlB5473xv5LVGM3EwGBMZxAQKBgQCB\nEg8vvQ6bzTyRyT+h9NXV68UVyE3LPScCeNfIBlUFyl8wGvrOFmogJFsi7KQFUKzm\naWHFlegh+Yzao8WTCFJJ/kP8HocYnUkiju5CQ10sGAuE66KzRJyrQfJytvfZDU+A\nnFYBhGn+RCi8q4T5yN7VdAKPU5tkxcmTnyK0vJJY3wKBgQCrr0rpuO+icj9fcZmZ\nIXdRaOXcyTiQ6rIW05wfqvwAlWLlj/Jnou0kWPb9/f+edITQbeKmAv0nBhvQeBRH\n7LpfhT9LroZcm6gXmOHrkbV/3t+mF4C+hW71SNxIUM2GYERcQS+tvHRvYzYi65me\ngPHGZ7eWfSzSltFAD7JiRIa96w==\n-----END PRIVATE KEY-----\n",
-  "client_email": "vue-laravel-firebase-auth@appspot.gserviceaccount.com",
-  "client_id": "100833000058144523755",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vue-laravel-firebase-auth%40appspot.gserviceaccount.com"
-}
+PUT YOUR OWN FILE HERE
